@@ -1,0 +1,8 @@
+streamlit
+spotipy
+requests
+python-dotenv
+agno
+googlesearch-python 
+pycountry
+groq
